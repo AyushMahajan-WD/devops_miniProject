@@ -10,6 +10,6 @@ RUN uv pip install .
 
 EXPOSE 1283
 
-CMD ["uv", "run", "app.py"]
+CMD ["uv", "run","app.py"]
 
 
